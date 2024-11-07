@@ -28,7 +28,7 @@ class AdminPanelProvider extends PanelProvider
             ->path('admin')
             ->login()
             ->sidebarCollapsibleOnDesktop()
-            ->brandName('Healthy Response ')
+            ->brandName('Healthy Home')
             ->colors([
                 'primary' => Color::Amber,
             ])
